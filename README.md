@@ -3,7 +3,6 @@
 <img src="https://octodex.github.com/images/welcometocat.png" height="200">
 
 
-
 # github markdown 문법
 >[link to markdown reference](https://guides.github.com/features/mastering-markdown/)
 
